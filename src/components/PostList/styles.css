@@ -1,0 +1,7 @@
+section {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+}
